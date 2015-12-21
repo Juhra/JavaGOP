@@ -1,4 +1,4 @@
 # JavaGOP
 Essentially a Java Game Operating System. 
 
-I am new to Java, so don't expect it to be super nice or anything like that. I'll update this as I learn.
+I'm not amazing with Java, so don't expect it to be super nice or anything like that. I'll update this as I learn.
